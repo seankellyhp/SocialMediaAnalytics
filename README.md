@@ -5,7 +5,7 @@ This report examines political attitudes through the lens of social media. Resea
 This report contains two parts. The first part examined the social media presence of two rivaling news agencies during the 2016 USA Presidential Election; we extrapolate on the differing effects of Facebook behavior on political action. In the second part, various text mining techniques are utilized to understand the Mueller Report (MUER) and the reactions to its release. 
 
 
-### NPR and Fox News Topic Differences 2016 Election 
+### NPR and Fox News Network Classification Differences 2016 Election 
 ![Network Analysis](NetworkAnalysis.png)
 
 ### NPR and Fox News Popular Headlines 2016 Election 
